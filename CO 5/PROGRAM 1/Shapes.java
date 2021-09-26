@@ -19,7 +19,8 @@ public class Shapes extends Applet{
 		g.fillOval(130,50,100,80);
 
 		g.fillRect(135,150,90,85);
-                                       g.drawLine(80,250,200,250);
+		
+                g.drawLine(80,250,200,250);
 
               
 
